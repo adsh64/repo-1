@@ -1,0 +1,160 @@
+root@panp0bssc3db01:~# df -h /
+Filesystem             Size   Used  Available Capacity  Mounted on
+rpool/ROOT/SCMU_2017.01
+                       274G    37G        34G    52%    /
+root@panp0bssc3db01:~# df -h /
+Filesystem             Size   Used  Available Capacity  Mounted on
+rpool/ROOT/SCMU_2017.01
+                       274G    37G        34G    52%    /
+root@panp0bssc3db01:~# df -h
+Filesystem             Size   Used  Available Capacity  Mounted on
+rpool/ROOT/SCMU_2017.01
+                       274G    37G        34G    52%    /
+/devices                 0K     0K         0K     0%    /devices
+/dev                     0K     0K         0K     0%    /dev
+ctfs                     0K     0K         0K     0%    /system/contract
+proc                     0K     0K         0K     0%    /proc
+mnttab                   0K     0K         0K     0%    /etc/mnttab
+swap                   480G   1.1M       480G     1%    /system/volatile
+objfs                    0K     0K         0K     0%    /system/object
+sharefs                  0K     0K         0K     0%    /etc/dfs/sharetab
+rpool/ROOT/SCMU_2017.01/var
+                       274G   8.0G        34G    20%    /var
+fd                       0K     0K         0K     0%    /dev/fd
+swap                   480G    25M       480G     1%    /tmp
+rpool/VARSHARE         274G    12G        34G    27%    /var/share
+rpool/export           274G   6.0G        34G    15%    /export
+rpool/export/home      274G    13G        34G    28%    /export/home
+rpool/export/home/achen
+                       274G    39K        34G     1%    /export/home/achen
+rpool/export/home/achoy
+                       274G    35K        34G     1%    /export/home/achoy
+rpool/export/home/amirza
+                       274G    35K        34G     1%    /export/home/amirza
+rpool/export/home/asaleem
+                       274G    35K        34G     1%    /export/home/asaleem
+rpool/export/home/awoolery
+                       274G   154M        34G     1%    /export/home/awoolery
+rpool/export/home/bliang
+                       274G    35K        34G     1%    /export/home/bliang
+rpool/export/home/cz2w2x
+                       274G    35K        34G     1%    /export/home/cz2w2x
+rpool/export/home/dxun
+                       274G    94M        34G     1%    /export/home/dxun
+rpool/export/home/ijakubec
+                       274G    35K        34G     1%    /export/home/ijakubec
+rpool/export/home/jzhu
+                       274G    35K        34G     1%    /export/home/jzhu
+rpool/export/home/jzhu1
+                       274G    45K        34G     1%    /export/home/jzhu1
+rpool/export/home/kchan
+                       274G   1.5G        34G     5%    /export/home/kchan
+rpool/export/home/ksiddiqu
+                       274G    35K        34G     1%    /export/home/ksiddiqu
+rpool/export/home/lli
+                       274G    35K        34G     1%    /export/home/lli
+rpool/export/home/lz49s1
+                       274G    40K        34G     1%    /export/home/lz49s1
+rpool/export/home/mbarabas
+                       274G    35K        34G     1%    /export/home/mbarabas
+rpool/export/home/opendscr
+                       274G   955M        34G     3%    /export/home/opendscr
+rpool/export/home/opeterki
+                       274G    62K        34G     1%    /export/home/opeterki
+rpool/export/home/pvins
+                       274G    35K        34G     1%    /export/home/pvins
+rpool/export/home/scollura
+                       274G    35K        34G     1%    /export/home/scollura
+rpool/export/home/shadbase
+                       274G  1003K        34G     1%    /export/home/shadbase
+rpool/export/home/smathew
+                       274G    39K        34G     1%    /export/home/smathew
+rpool/export/home/smeekoh
+                       274G    35K        34G     1%    /export/home/smeekoh
+rpool/export/home/sysadm
+                       274G    34K        34G     1%    /export/home/sysadm
+rpool/export/home/tlam
+                       274G    40K        34G     1%    /export/home/tlam
+rpool/export/home/toshoe
+                       274G    35K        34G     1%    /export/home/toshoe
+rpool/export/home/vasini
+                       274G    35K        34G     1%    /export/home/vasini
+rpool/export/home/vsaini
+                       274G   2.7M        34G     1%    /export/home/vsaini
+rpool/export/home/wassilko
+                       274G    35K        34G     1%    /export/home/wassilko
+rpool                  274G    73K        34G     1%    /rpool
+rpool/VARSHARE/zones   274G    31K        34G     1%    /system/zones
+u01-pool/u01           274G   255G        19G    94%    /u01
+u01-pool               274G    31K        19G     1%    /u01-pool
+rpool/VARSHARE/pkg     274G    33K        34G     1%    /var/share/pkg
+rpool/VARSHARE/pkg/repositories
+                       274G    31K        34G     1%    /var/share/pkg/repositories
+192.168.30.11:/export/bdv021_26_rmandisk3
+                        10T    38G      10.0T     1%    /rmandisk3
+192.168.30.11:/export/iphis/3db01-02_p06
+                       500G   8.3G       492G     2%    /p06
+192.168.30.11:/export/bdv021_26_rmandisk4
+                        10T   8.1G      10.0T     1%    /rmandisk4
+192.168.30.11:/export/p_dbbackup08a
+                        10T    75G       9.9T     1%    /dbbackup8
+192.168.30.11:/export/3db01_02_r01/r01
+                       504G    80K       504G     1%    /r01
+192.168.30.11:/export/bdv021_26_rmandisk2
+                        10T   293M        10T     1%    /rmandisk2
+192.168.30.11:/export/p_dbbackup07a
+                        10T   110G       9.9T     2%    /dbbackup7
+192.168.30.11:/export/p_dbbackup03a
+                        10T    52G       9.9T     1%    /dbbackup3
+192.168.30.11:/export/p_dbbackup01a
+                        10T   198G       9.8T     2%    /dbbackup1
+192.168.30.11:/export/p_dbbackup04a
+                        10T    27G      10.0T     1%    /dbbackup4
+192.168.30.11:/export/iphis/3db01-02_p07
+                       300G    70K       300G     1%    /p07
+192.168.30.11:/export/bdv021_26_rmandisk5
+                        10T   2.2G      10.0T     1%    /rmandisk5
+192.168.30.11:/export/bssc1db/dbsupport
+                       500G   246G       254G    50%    /dbsupport
+192.168.30.11:/export/p_dbbackup06a
+                        10T    77G       9.9T     1%    /dbbackup6
+192.168.30.11:/export/p_dbbackup02a
+                        10T   168G       9.8T     2%    /dbbackup2
+192.168.30.11:/export/bdv021_26_rmandisk1
+                        10T    29G      10.0T     1%    /rmandisk1
+192.168.30.11:/export/iphis/3db01-02_p03
+                       300G    58K       300G     1%    /p03
+192.168.30.11:/export/backup_v021v022A
+                        10T   8.1T       1.9T    81%    /dbbkup
+192.168.30.11:/export/3db01_02_u03/u03
+                       2.2T   8.2G       2.2T     1%    /u03
+192.168.30.11:/export/p_dbbackup05a
+                        10T   114G       9.9T     2%    /dbbackup5
+192.168.30.11:/export/3db01_02_r02/r02
+                       4.0G    66K       4.0G     1%    /r02
+192.168.30.11:/export/DHIR_3_1/DB_Migration
+                       1.0T   595G       429G    59%    /DB_Migration
+192.168.30.11:/export/bdv021_26_rmandisk7
+                        10T   7.0G      10.0T     1%    /rmandisk7
+192.168.30.11:/export/bdv021_26_rmandisk6
+                        10T   3.0G      10.0T     1%    /rmandisk6
+192.168.30.11:/export/iphis/3db01-02_p02
+                        50G    58K        50G     1%    /p02
+192.168.30.11:/export/3db01_02/DB_DHDR_RAC1_2
+                       2.0T    58K       2.0T     1%    /DHDR_STAGE
+192.168.30.11:/export/bdv021_26_rmandisk8
+                        10T   1.4G      10.0T     1%    /rmandisk8
+192.168.30.11:/export/3db01_02/DB_DHDR_STAGECORE
+                       8.0T    58K       8.0T     1%    /DHDR_STAGECORE
+192.168.30.11:/export/3db01_02_u02/u02
+                       2.2T   108K       2.2T     1%    /u02
+192.168.30.1:/export/bdv021-22_3db01-02/DB_Archivelogs
+                       750G   365G       385G    49%    /DB_Archivelogs
+192.168.30.11:/export/3db01-02/racapps_shadbase
+                       300G    58K       300G     1%    /apps/racapps_shadbase
+192.168.30.1:/export/s11repo
+                       300G   198G       102G    66%    /repo/s11repo
+10.218.13.77:/prod_nfs_home/shafiq.adil
+                       120G    98G        21G    83%    /export/ldapusers/shafiq.adil
+10.218.13.77:/prod_nfs_home/xun.david
+                       120G    98G        21G    83%    /export/ldapusers/xun.david
